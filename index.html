@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <!-- Link bootstrap to head -->
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+        <link href="styles.css" rel="stylesheet">
+
+        <!-- Add fonts -->
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Oswald">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro">
+
+        <!-- Make site adaptive, add meta description -->
+        <meta name="viewport" content="initial-scale=1, width=device-width">
+        <meta name="description" content="Yes, go to sleep. There, we've saved you the click. But if you're still on the fence, come on over and let this site can convince you.">
+
+        <!-- Add custom JavaScript -->
+        <script src="script.js"></script>
+
+        <title>Should I go to sleep?</title>
+    </head>
+    <body>
+        <!-- Navigation menu -->
+        <nav id="site-navigation">
+            <div class="content">
+                <button class="cta-btn-lrg" id="dark-mode" onclick="toggleDark()">DIM THE LIGHTS</button>
+                <ul id="main-navigation">
+                    <li id="menu-item-1" class="nav-menu-item"><a href="index.html">Home</a></li>
+                    <li id="menu-item-2" class="nav-menu-item"><a href="tools.html">Tools</a></li>
+                    <li id="menu-item-3" class="nav-menu-item"><a href="books.html">Books</a></li>
+                    <li id="menu-item-4" class="nav-menu-item"><a href="sins.html">Sins</a></li>
+                </ul>
+            </div>
+        </nav>
+
+        <!-- First screen of the page -->
+        <div class="section-white" id="first-section">
+            <div class="content" id="first-frame">
+                <h1 id="index-header">GO TO SLEEP.<br><b>RIGHT NOW</b></h1>
+                <div class="side-image">
+                    <img src="sleep-2-frame-2.png" alt="Painting of a girl sleeping">
+                </div>
+            </div>
+        </div>
+
+        <!-- Main content of the page -->
+        <div class="section-white" id="second-section">
+            <div class="content">
+                <h2>Recurring Problem</h2>
+                <p>
+                    You've probably heard it before. A person needs 7 to 9 hour of sleep per night, and sleep deprivation makes you less alert, coordinated and consistent with your decision-making. It should be a no-brainer: not sleeping makes you a worse version of yourself.
+                </p>
+                <p>And yet, you're still here.</p>
+                <p>Why?</p>
+            </div>
+        </div>
+
+        <div class="section-white">
+            <div class="content">
+                <h2>The No-Sleep Loop</h2>
+                <p>
+                    Because that's only part of the story. We get it: the last thing you want after a long day of work is going to sleep and repeating the same arduous day over and over again.
+                </p>
+                <p>
+                    Shouldn't you take some time to reset?
+                </p>
+                <p>
+                    So you stay up late—cooking, watching TV, browsing the net on your phone—and cut an hour or two into your sleep schedule. Only to fall into the same trap tomorrow.
+                </p>
+                <p>
+                    It's the perfect catch-22.
+                </p>
+            </div>
+        </div>
+
+        <div class="section-white">
+            <div class="content">
+                <h2>Cracking the Code</h2>
+                <p>
+                    This is where we come in. A few adjusments to your environment and daily habits can go a long way towards improving you sleep schedule.
+                </p>
+                <p>It might sound simple, but it won't be easy.</p>
+                <p>You'll have to form healthy habits—and get rid of the harmful ones.</p>
+            </div>
+        </div>
+
+        <div class="section-white">
+            <div class="content">
+                <h2>Tools for the Job</h2>
+                <p>
+                    Of course, no amount of words will help you get a good night's rest. We believe in a resource-focused approach—we give you the tools to solve your sleeping problem, and you decide how to use them.
+                </p>
+                <a href="tools.html" class="cta-btn">GET TOOLS</a>
+            </div>
+        </div>
+
+        <!-- The Modal Popup -->
+        <div id="modal-popup" class="modal">
+
+            <!-- Modal content -->
+                <div class="modal-content" id="modal-bg">
+                    <div class="modal-header">
+                        <h2>Learn More</h2>
+                        <span class="close">&times;</span>
+                    </div>
+                    <div class="modal-body">
+                        <p>Want to find out more about healthy sleep? Great!<br> Just keep in mind that this site wasn't made by a doctor or a scientist.</p>
+                        <p>So do your own research.</p>
+                        <p>Or check out this Healthline article on <i>17 Proven Tips to Sleep Better at Night.</i></p>
+                        <a href="https://www.healthline.com/nutrition/17-tips-to-sleep-better" class="cta-btn">READ ARTICLE</a>
+                    </div>
+                </div>
+
+            </div>
+
+        <!-- Page footer -->
+        <div class="footer">
+            <div class="content">
+                <span class="footer-copyright">All images taken from the <a href="https://www.nga.gov/">National Gallery of Art</a>.</span>
+                <br>
+                <span class="footer-contact">Contact: </span>
+                <span class="footer-email"><a href="mailto:ddathos@gmail.com">ddathos@gmail.com</a></span>
+            </div>
+        </div>
+
+    </body>
+</html>
