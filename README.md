@@ -8,3 +8,5 @@ Kind of responsive.
 Could use better paddings/margins.
 
 Copy and image edits by me.
+
+P.S. CS50 pset required using Bootstrap for one element of the page, but I did everything else myself to get a better grasp of CSS.
