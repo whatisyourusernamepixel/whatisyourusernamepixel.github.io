@@ -1,5 +1,5 @@
 # go_to_sleep
-First web page I made as part of the CS50 week 8 problem set
+First web page I made as part of the CS50 [week 8 problem set](https://cs50.harvard.edu/x/2022/psets/8/homepage/)
 
 Simple webpage with advice on getting better sleep. 
 Straightforward CSS, simple JS functions like dark mode button or popup that shows up after 60 seconds
