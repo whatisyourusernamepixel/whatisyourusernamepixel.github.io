@@ -21,6 +21,7 @@ Kind of responsive.No templates used -- each .html file needs to be edited separ
 - Click on the name of your repository -- go_to_sleep
 - Click on index.html > click edit file in top right
 - Paste Pixel code between <head> and </head> tags
+- Commit changes
 - Experiment:
   *  install events
   *  set up custom conversions
@@ -48,4 +49,3 @@ https://www.facebook.com/business/help/402791146561655
 
 Conversion tracking: 
 https://developers.facebook.com/docs/meta-pixel/implementation/conversion-tracking/
-
