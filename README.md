@@ -2,7 +2,7 @@
 Simple webpage with advice on getting better sleep. 
 Straightforward CSS, simple JS functions like dark mode button or popup that shows up after 30 seconds
 
-Kind of responsive.No templates used -- each .html file needs to be edited separately
+Kind of responsive. No templates used -- each .html file needs to be edited separately
 
 ## How to deploy a site
 
