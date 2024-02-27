@@ -31,6 +31,7 @@ Kind of responsive. No templates used -- each .html file needs to be edited sepa
 ## Setup tips
 
 Site pages are files ending with .html
+
 Each .html page is separate from other -- so a Pixel needs to be set up on every page separately. 
 
 Same goes for any code: events, domain verification, etc.
