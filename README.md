@@ -8,9 +8,9 @@ No templates used -- each .html file needs to be edited separately
 
 1. Register at github.com
 2. Register at render.com -- choose free price plan
-3. For a repository: https://github.com/inthecure/go_to_sleep
+3. Fork a repository: https://github.com/inthecure/go_to_sleep
 4. Go to Render dashboard:  https://dashboard.render.com/
-5. Click New > Static Site
+5. Click New > Static Site > Connect Repository
 6. Enter your site name -- it will look like example.render.com
 7. Enter a dot . under Publish Directory -- leave other settings unchanged
 8. Click Create Static Site
