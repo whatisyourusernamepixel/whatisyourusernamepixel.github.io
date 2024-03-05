@@ -36,7 +36,7 @@ Each .html page is separate from other -- so a Pixel needs to be set up on every
 
 Same goes for any code: events, domain verification, etc.
 
-## Resrouces
+## Resources
 
 How to set up and install a Meta Pixel: https://www.facebook.com/business/help/952192354843755
 
