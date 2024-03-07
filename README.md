@@ -4,7 +4,15 @@ Straightforward CSS, simple JS functions like dark mode button or popup that sho
 
 No templates used -- each .html file needs to be edited separately
 
-## How to deploy a site
+## How to deploy a site - GitHub (Recommended)
+1. Register at github.com - pick a username you wouldn't 
+2. Fork a repository: https://github.com/inthecure/go_to_sleep - [How to fork]([url](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo))
+3. Rename your repository to _username_.github.io - [How to rename]([url](https://docs.github.com/en/repositories/creating-and-managing-repositories/renaming-a-repository))
+4. Go to _username_.github.io - this is your copy of a go_to_sleep website
+
+*works for static sites only
+
+## How to deploy a site - Render (More Customization)
 
 1. Register at github.com
 2. Register at render.com -- choose free price plan
@@ -18,7 +26,7 @@ No templates used -- each .html file needs to be edited separately
 ## What next
 
 - Go to github.com > click profile picture in top right > Your Repositories
-- Click on the name of your repository -- go_to_sleep
+- Click on the name of your repository -- go_to_sleep /
 - Click on index.html > click edit file in top right
 - Paste Pixel code between <head> and </head> tags
 - Commit changes
