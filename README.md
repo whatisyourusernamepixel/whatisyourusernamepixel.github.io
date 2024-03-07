@@ -10,9 +10,9 @@ No templates used -- each .html file needs to be edited separately
 3. Rename your repository to _username_.github.io - [How to rename]([url](https://docs.github.com/en/repositories/creating-and-managing-repositories/renaming-a-repository))
 4. Go to _username_.github.io - this is your copy of a go_to_sleep website
 
-*works for static sites only
+_works for static sites only_
 
-## How to deploy a site - Render (More Customization)
+## How to deploy a site - Render (Customizeable)
 
 1. Register at github.com
 2. Register at render.com -- choose free price plan
@@ -22,6 +22,8 @@ No templates used -- each .html file needs to be edited separately
 6. Enter your site name -- it will look like example.render.com
 7. Enter a dot . under Publish Directory -- leave other settings unchanged
 8. Click Create Static Site
+
+_works for all sites_
 
 ## What next
 
