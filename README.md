@@ -6,8 +6,8 @@ No templates used -- each .html file needs to be edited separately
 
 ## How to deploy a site - GitHub (Recommended)
 1. Register at github.com - pick a username you wouldn't 
-2. Fork a repository: https://github.com/inthecure/go_to_sleep - [How to fork]([url](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo))
-3. Rename your repository to _username_.github.io - [How to rename]([url](https://docs.github.com/en/repositories/creating-and-managing-repositories/renaming-a-repository))
+2. Fork a repository: https://github.com/inthecure/go_to_sleep - [How to fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo)
+3. Rename your repository to _username_.github.io - [How to rename](https://docs.github.com/en/repositories/creating-and-managing-repositories/renaming-a-repository)
 4. Go to _username_.github.io - this is your copy of a go_to_sleep website
 
 _works for static sites only_
@@ -37,6 +37,8 @@ _works for all sites_
   *  set up custom conversions
   *  use Event Setup Tool
   *   verify domain
+
+[How to edit](https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files)
 
 ## Setup tips
 
