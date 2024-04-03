@@ -5,7 +5,7 @@ Straightforward CSS, simple JS functions like dark mode button or popup that sho
 No templates used -- each .html file needs to be edited separately
 
 ## How to deploy a site - GitHub (Recommended)
-1. Register at github.com - pick a username you wouldn't 
+1. Register at github.com - pick a username you wouldn't mind being public
 2. Fork a repository: https://github.com/inthecure/go_to_sleep - [How to fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo)
 3. Rename your repository to _username_.github.io - [How to rename](https://docs.github.com/en/repositories/creating-and-managing-repositories/renaming-a-repository)
 4. Go to _username_.github.io - this is your copy of a go_to_sleep website
