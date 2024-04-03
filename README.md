@@ -42,7 +42,7 @@ _works for all sites_
 
 ## Setup tips
 
-Site pages are files ending with .html
+Site pages are files ending with .html - index.html is the home page
 
 Each .html page is separate from other -- so a Pixel needs to be set up on every page separately. 
 
